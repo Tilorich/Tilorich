@@ -1,4 +1,4 @@
-<h3> My Name is Richard. I'm currently enrolled in a software engineering bootcamp at ALX Africa. I am interested in solving real-world problems with software engineering technologies. I am also in the process to becoming a Penetration Tester.👨🏻‍💻 </h3>
+My Name is Richard. I'm currently enrolled in a software engineering bootcamp at ALX Africa. I am interested in solving real-world problems with software engineering technologies. I am also in the process to becoming a Penetration Tester.👨🏻‍💻
  
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="100"/>
