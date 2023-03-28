@@ -18,7 +18,9 @@ My Name is Richard. I'm currently enrolled in a software engineering bootcamp at
 </div>
 <img src="https://komarev.com/ghpvc/?username=Tilorich&style=compact-square&color=blue" align="center" alt=""/>
 
-<h2> 👨 🏻 <200d>💻  &nbsp;A Little Bit About Myself and My Interests</h2>
+---
+
+<h2> 👨 🏻 <200d>💻  &nbsp;A Little Bit About Me and My Interests</h2>
 
 ```yaml
 name: Mba Ugochukwu Richard
