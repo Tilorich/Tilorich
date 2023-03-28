@@ -1,4 +1,4 @@
-My Name is Richard. I'm currently enrolled in a software engineering bootcamp at ALX Africa. I am interested in solving real-world problems with software engineering technologies. I am also in the process to becoming a Penetration Tester.
+My Name is Richard. I'm currently enrolled in a software engineering bootcamp at ALX Africa. I am interested in solving real-world problems with software engineering technologies. I am also in the process to becoming a Penetration Tester.👨🏻‍💻
  
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="100"/>
@@ -18,7 +18,7 @@ My Name is Richard. I'm currently enrolled in a software engineering bootcamp at
 
 <div id="Profile" align="center">
  <h3>Glad to see you here!</h3>
-<im src="https://komarev.com/ghpvc/?username=Tilorich&style=compact-square&color=blue"  alt=""/>
+<img src="https://komarev.com/ghpvc/?username=Tilorich&style=compact-square&color=blue"  alt=""/>
 </div>
 
 ---
