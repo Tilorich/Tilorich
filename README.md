@@ -20,7 +20,7 @@ My Name is Richard. I'm currently enrolled in a software engineering bootcamp at
 
 ---
 
-<h2> 👨 💻  &nbsp;A Little Bit About Me and My Interests</h2>
+<h2> 💻  &nbsp;A Little Bit About Me and My Interests</h2>
 
 ```yaml
 name: Mba Ugochukwu Richard
