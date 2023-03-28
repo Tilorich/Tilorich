@@ -16,7 +16,7 @@ My Name is Richard. I'm currently enrolled in a software engineering bootcamp at
   </a>
 </div>
 
-<div id="Profile" align="">
+<div id="Profile" align="center">
  <h3>Glad to see you here!</h3>
 <img src="https://komarev.com/ghpvc/?username=Tilorich&style=compact-square&color=blue" align="center" alt=""/>
 </div>
