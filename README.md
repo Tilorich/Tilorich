@@ -4,7 +4,7 @@ My Name is Richard. I'm currently enrolled in a software engineering bootcamp at
   <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="100"/>
 </div>
 
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://twitter.com/_RichardMba?t=RcJyjzEW_HJlrJcg8C4kWA&s=09">
     <img src="https://img.shields.io/badge/Twitter-blue?&logo=twitter&logoColor=highcontrast" alt="Twitter Badge"/>
   </a>
@@ -18,6 +18,35 @@ My Name is Richard. I'm currently enrolled in a software engineering bootcamp at
 </div>
 <img src="https://komarev.com/ghpvc/?username=Tilorich&style=compact-square&color=blue" align="center" alt=""/>
 
+<h2> 👨 🏻 <200d>💻  &nbsp;A Little Bit About Myself and My Interests</h2>
+
+```yaml
+name: Mba Ugochukwu Richard
+located_in: Lagos, Nigeria
+current_job: Software Engineering bootcamp
+education:
+  [
+    "Bachelor's in Computer Science",
+  ]
+
+fields_of_interests:
+  [
+    "Software Engineering",
+    "DevOps",
+    "Penetration Testing",
+    "Ethical Hacking",
+  ]
+technical_background:
+  [
+    "Intern - Computer Networking",
+  ]
+
+currently_learning: ["Software Engineering, Penetration Testing"]
+2023 Goals: ["Create 5+ Projects and become a Penetration Tester."]
+hobbies: [ "Playing Chess", "Working Out"]
+```
+
+--- 
 ![Github stats](https://github-readme-stats.vercel.app/api?&username=Tilorich&repo=Tilorich&theme=highcontrast&show_icons=true&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tilorich&langs_count=20&layout=compact&theme=vision-friendly-dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
