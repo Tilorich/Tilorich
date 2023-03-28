@@ -11,7 +11,7 @@ My Name is Richard. I'm currently enrolled in a software engineering bootcamp at
   <a href="https://www.linkedin.com/in/richard-mba/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?&logo=linkedin&logoColor=highcontrast" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://mail.google.com/mail/u/0/#inbox/mbarichard18@gmail.com">
+  <a href="mailto:mbarichard18@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
 </div>
